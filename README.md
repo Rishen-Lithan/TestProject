@@ -1,6 +1,6 @@
-# Getting Started
+# Option 2 : Mobile App Interface (Prototype)
 
-> **Note**: Make sure you have completed the [Set Up Your Environment](https://reactnative.dev/docs/set-up-your-environment) guide before proceeding.
+> **Note**: This project is developed using React Native so Make sure you have completed the [Set Up Your Environment](https://reactnative.dev/docs/set-up-your-environment) guide before proceeding.
 
 ## Step 1: Start Metro
 
@@ -34,7 +34,7 @@ yarn android
 
 ## About the Project
 
-This application is designed with a clean and user-friendly UI, ensuring a smooth user experience. The project follows a well-structured file organization for screens, styles, navigation, and assets, enhancing maintainability and scalability. The Project is developed using React Native which consists of several screens.
+This application is designed with a clean and user-friendly UI, ensuring a smooth user experience. The project follows a well-structured file organization for screens, styles, navigation, and assets, enhancing maintainability and scalability. The Project consists of several screens.
 - User Registration Screen
 - User Login Screen
 - User Profile Screen
