@@ -62,4 +62,6 @@ This application is designed with a clean and user-friendly UI, ensuring a smoot
    - Filtering options: All / Completed / Cancelled
 6. Navigation
    - Implemented bottom tab navigation for seamless app exploration
-  
+7. Contact Information Linking
+   - Contact Number linked with Phone App
+   - Email & Website linked with Email App & Web Browser
