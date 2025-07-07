@@ -33,8 +33,8 @@ yarn android
 ## About the Project
 
 The Project is developed using React Native which consists of several screens.
-> User Registration
-> User Login
-> User Profile
-> Info Section
-> Home Screen
+- User Registration
+- User Login
+- User Profile
+- Info Section
+- Home Screen
