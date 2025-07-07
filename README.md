@@ -10,6 +10,7 @@ To start the Metro dev server, run the following command from the root of your R
 
 ```sh
 # Using npm
+npm install
 npm start
 
 # OR using Yarn
@@ -33,8 +34,11 @@ yarn android
 ## About the Project
 
 The Project is developed using React Native which consists of several screens.
-- User Registration
-- User Login
-- User Profile
-- Info Section
+- User Registration Screen
+- User Login Screen
+- User Profile Screen
+- Info Section Screen
 - Home Screen
+- Rooms Details Screen
+
+
