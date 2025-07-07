@@ -14,6 +14,7 @@ npm install
 npm start
 
 # OR using Yarn
+yarn install
 yarn start
 ```
 
@@ -33,7 +34,7 @@ yarn android
 
 ## About the Project
 
-The Project is developed using React Native which consists of several screens.
+This application is designed with a clean and user-friendly UI, ensuring a smooth user experience. The project follows a well-structured file organization for screens, styles, navigation, and assets, enhancing maintainability and scalability. The Project is developed using React Native which consists of several screens.
 - User Registration Screen
 - User Login Screen
 - User Profile Screen
@@ -41,4 +42,24 @@ The Project is developed using React Native which consists of several screens.
 - Home Screen
 - Rooms Details Screen
 
+### Key Features & Enhancements
 
+1. Social Authentication Option & Password Recovery
+   - Integrated social login options
+   - UI support for "Forgot Password" functionality
+2. Room Management
+   - Filter rooms by status: All / Available / Unavailable
+   - Room availability search functionality
+3. Hotel Information
+   - Dedicated Info Screen to display : Hotel contact details, About Us section, Policies & Amenities
+4. User Profile
+   - Divided into two sections: Overview and Settings
+   - Overview displays Recent bookings & User achievements
+   - Settings includes "My Bookings" section for user-specific reservations
+5. Booking History
+   - Order history feature to view past bookings
+   - Search functionality for past reservations
+   - Filtering options: All / Completed / Cancelled
+6. Navigation
+   - Implemented bottom tab navigation for seamless app exploration
+  
